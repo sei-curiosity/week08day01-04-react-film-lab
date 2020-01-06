@@ -2,7 +2,7 @@
 
 ## Running this:
 
-This project was created with [`create-react-app`](https://facebook.github.io/create-react-app/docs/getting-started). Once you have the app cloned, you should run `npm install`. You can then run it with `npm start`.
+This project was created with [`npx create-react-app`](https://facebook.github.io/create-react-app/docs/getting-started). Once you have the app cloned, you should run `npm install`. You can then run it with `npm start`.
 
 ### What is this?
 
