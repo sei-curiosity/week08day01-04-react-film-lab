@@ -119,12 +119,6 @@ You haven't written out the `FilmDetails` component yet, but it currently only r
 
 Follow the same steps as above, and once again check in the browser for functionality.
 
-#### Step 3: Refactor `FilmRow`
-
-The `FilmRow` component currently only renders UI. Therefore, you can also make it a functional component.
-
-Follow the same steps as above, and once again check in the browser for functionality.
-
 
 ### Task 3: Adding Film Details
 
