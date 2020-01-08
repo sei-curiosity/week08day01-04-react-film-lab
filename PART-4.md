@@ -157,7 +157,7 @@ To start, create a new variable to hold on to your DOM tree. You'll conditionall
 Add this below the two declared `const` variables:
 
 ```js
-let details
+let detail
 ```
 
 Now, you need to determine if there is a film to render or not.
